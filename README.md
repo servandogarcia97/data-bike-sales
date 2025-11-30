@@ -13,8 +13,8 @@ Este proyecto incluye:
 - `datasets/bikesales_clean.xlsx` — Datos limpios generados.
 
 ## Objetivo
-Obtener un dataset limpio y coherente para analizar la **campaña de navidad**, identificando:
-- productos más vendidos,  
-- países con mayor revenue,  
-- distribución del ticket medio,  
-- evolución diaria de ventas.
+Obtener un dataset limpio y coherente para analizar la **campaña de navidad**:
+- kpis del mes de diciembre,  
+- analsis global del dataset,  
+- analisis por cliente,  
+- analisis por producto.
